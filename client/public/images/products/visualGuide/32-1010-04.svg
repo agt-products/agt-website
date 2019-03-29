@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="108px" height="108px" viewBox="0 0 108 108" style="enable-background:new 0 0 108 108;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{clip-path:url(#SVGID_2_);}
+	.st2{fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M80.5,8.8l-53,0c-2.2,0-4,1.8-4,4L23.5,99l61,0l0.1-86.2C84.5,10.6,82.7,8.8,80.5,8.8z M53.8,49
+			c-8.1,0-14.6-6.6-14.6-14.6c0-8.1,6.5-14.6,14.6-14.6c8.1,0,14.6,6.6,14.6,14.6C68.4,42.4,61.9,49,53.8,49z"/>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="23.5" y="62.2" width="61" height="37"/>
+		</defs>
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;fill:#CCCCCC;"/>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st1">
+			<line class="st2" x1="34.5" y1="55.2" x2="-23.5" y2="113.2"/>
+			<line class="st2" x1="41.5" y1="55.2" x2="-16.5" y2="113.2"/>
+			<line class="st2" x1="48.5" y1="55.2" x2="-9.5" y2="113.2"/>
+			<line class="st2" x1="55.5" y1="55.2" x2="-2.5" y2="113.2"/>
+			<line class="st2" x1="62.5" y1="55.2" x2="4.5" y2="113.2"/>
+			<line class="st2" x1="69.5" y1="55.2" x2="11.5" y2="113.2"/>
+			<line class="st2" x1="76.5" y1="55.2" x2="18.5" y2="113.2"/>
+			<line class="st2" x1="83.5" y1="55.2" x2="25.5" y2="113.2"/>
+			<line class="st2" x1="90.5" y1="55.2" x2="32.5" y2="113.2"/>
+			<line class="st2" x1="97.5" y1="55.2" x2="39.5" y2="113.2"/>
+			<line class="st2" x1="104.5" y1="55.2" x2="46.5" y2="113.2"/>
+			<line class="st2" x1="111.5" y1="55.2" x2="53.5" y2="113.2"/>
+			<line class="st2" x1="118.5" y1="55.2" x2="60.5" y2="113.2"/>
+			<line class="st2" x1="125.5" y1="55.2" x2="67.5" y2="113.2"/>
+		</g>
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;fill:none;stroke:#000000;stroke-width:0.75;stroke-miterlimit:10;"/>
+	</g>
+</g>
+</svg>

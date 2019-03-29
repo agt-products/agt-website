@@ -1,0 +1,90 @@
+.remove-btn {
+    margin-right: 0.5rem;
+}
+
+.fade-enter {
+    opacity: 0.01;
+}
+
+.fade-enter-active {
+    opacity: 1;
+    transition: opacity 1000ms ease-in;
+}
+
+.fade-exit {
+    opacity: 1;
+}
+
+.fade-exit-active {
+    opacity: 0.01;
+    transition: opacity 1000ms ease-in;
+}
+
+.blue-bg {
+    background-color: #2230AD;
+}
+
+.dropdown-item {
+    cursor: pointer;
+}
+
+footer a {
+    color: rgba(255, 255, 255, 0.5);    
+}
+
+footer a:hover  {
+    color: orange;
+    text-decoration: none;
+}
+
+/* AppCardLink Styles */
+
+.app-card-link-overlay {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 0 250px 40vw;
+    border-color: transparent transparent rgba(34,48,173, .8) transparent;
+}
+
+.app-card-link-text {
+    z-index: 2;
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+
+@media screen and (max-width: 1500px) {
+    .app-card-link-overlay {
+        border-width: 0 0 200px 40vw;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .app-card-link-overlay {
+        border-width: 0 0 220px 70vw;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .app-card-link-overlay {
+        border-width: 0 0 150px 80vw;
+    }
+
+    .app-card-link-text {
+        font-size: 1.3em;
+    }
+}
+
+/* ProductGalleryItem Styles */
+
+.product-gallery-item .card {
+    transition: background-color 200ms ease-in;
+    -webkit-transition: background-color 200ms ease-in;
+    -moz-transition: background-color 200ms ease-in;
+    -o-transition: background-color 200ms ease-in;
+}
+
+.product-gallery-item .card:hover {
+    background-color: rgba(34,48,173, .05);
+}
